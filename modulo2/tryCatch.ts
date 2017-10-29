@@ -1,4 +1,4 @@
-function tryCatchScope() {
+(function(){
     // Manejando errores
 
     // Ejemplo 1 - Simple error (sólo texto)
@@ -63,4 +63,4 @@ function tryCatchScope() {
     console.log(dividir(2, 3));
     console.log(dividir(2, 0));
 
-}
+})();

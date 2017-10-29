@@ -1,5 +1,5 @@
 // Tipos de datos Basicos: string, number, boolean
-function tiposBasicosScope() {
+(function(){
     let apellido: string = "Rodriguez";
     let planeta = "tierra";
     let continente: string;
@@ -11,4 +11,4 @@ function tiposBasicosScope() {
 
     let estaCerrado: boolean = true;
     estaCerrado = false;
-}
+})();

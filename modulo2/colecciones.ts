@@ -1,4 +1,4 @@
-function coleccionesScope() {
+(function(){
 
     // Arreglo y tuplas
 
@@ -26,4 +26,4 @@ function coleccionesScope() {
     ejemplo = "felipe";
     ejemplo = 42;
 
-}
+})();

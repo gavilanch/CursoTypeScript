@@ -1,4 +1,4 @@
-function anyScope() {
+(function(){
     // Tipo any
 
     let x: any = "Felipe";
@@ -25,4 +25,4 @@ function anyScope() {
         }
     }, true);
 
-}
+})();

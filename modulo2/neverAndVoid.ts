@@ -1,4 +1,4 @@
-function voidAndNeverScope() {
+(function(){
     // void y never
 
     function funcionConReturnVacio(param1: string): void {
@@ -33,4 +33,4 @@ function voidAndNeverScope() {
         // error   
     }
     */
-}
+})();

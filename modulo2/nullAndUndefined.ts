@@ -1,4 +1,4 @@
-function nullAndUndefinedScope() {
+(function(){
     // null y undefined
 
     let y;
@@ -18,4 +18,4 @@ function nullAndUndefinedScope() {
         // Aquí TypeScript entiende que la variable no es nula
         elemento.addEventListener("click", function () { });
     }
-}
+})();

@@ -1,4 +1,4 @@
-function letConstScope() {
+(function(){
     // Diferencia entre let, const y var
 
     // Declarando variables 
@@ -38,4 +38,4 @@ function letConstScope() {
         console.log(i); // ok
     }
 
-}
+})();

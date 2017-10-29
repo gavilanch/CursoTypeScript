@@ -1,4 +1,4 @@
-function enumStringScope() {
+(function(){
     // String enums
 
     enum Color { Verde = "verde2", Rojo = "rojo7", Azul = "azul", Amarillo = "amarillo" };
@@ -21,4 +21,4 @@ function enumStringScope() {
     }
 
     discernirColor(c);
-}
+})();

@@ -1,4 +1,4 @@
-function tiposDeUnionScope() {
+(function(){
     let nombre: string = "Felipe";
     //nombre = 52;
 
@@ -37,5 +37,5 @@ function tiposDeUnionScope() {
             return "Negativo";
         }
     }
-}
+})();
 

@@ -1,4 +1,4 @@
-function typeAssertion() {
+(function(){
     // ejemplo 1
 
     let nombre: any = "Felipe";
@@ -20,4 +20,4 @@ function typeAssertion() {
     console.log(bo);
     console.log(bo == true);
     console.log(bo == false);
-}
+})();

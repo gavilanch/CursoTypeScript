@@ -1,4 +1,4 @@
-function tiposLiteralesScope() {
+(function(){
     // literal string
 
     type Alinear = "centro" | "izquierda" | "derecha";
@@ -34,4 +34,4 @@ function tiposLiteralesScope() {
         return 4;
     }
 
-}
+})();

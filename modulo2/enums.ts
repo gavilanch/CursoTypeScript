@@ -1,4 +1,4 @@
-function enumsScope() {
+(function(){
     // enums
 
     enum Color { Verde = 1, Rojo = 2, Azul = 5, Amarillo = 10 };
@@ -21,4 +21,4 @@ function enumsScope() {
     }
 
     discernirColor(c);
-}
+})();
