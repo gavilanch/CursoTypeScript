@@ -1,0 +1,8 @@
+{
+  "extends": "../tsconfig.json",
+  "compilerOptions": {
+    "module": "commonjs",
+    "outDir": "../js/modulo7",                        /* Redirect output structure to the directory. */
+    "sourceMap": false
+  }
+}
